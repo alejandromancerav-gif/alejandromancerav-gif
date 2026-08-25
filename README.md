@@ -5,7 +5,7 @@ Building toward **Full Stack + Data + AI** one solid layer at a time.
 
 I come from two intensive bootcamps at 4Geeks Academy (Full Stack, and
 Full Stack with AI) and I'm now on a structured self-directed plan,
-learning by building real projects and documenting the whole process —
+learning by building real projects and documenting the whole process
 including what doesn't work the first time.
 
 ---
@@ -26,7 +26,18 @@ into the same stack I already build with.
 
 #### 🎓 Certifications
 
-Anthropic — AI Fluency Framework · AI Capabilities and Limitations · Claude 101 · Claude Code 101
+Anthropic AI Fluency Framework · AI Capabilities and Limitations · Claude 101 · Claude Code 101
+
+---
+
+#### 🚀 Featured project
+
+**[Wayfy](https://github.com/4GeeksAcademy/spain-fs-pt-130-wayfy)** — Accessible travel platform · *team of 3*
+I owned registration, authentication, and session state: signup/login
+endpoints in Flask + SQLAlchemy, password hashing with Bcrypt, JWT-based
+auth, and global user state on the frontend with React Context API +
+AuthProvider (persisted through sessionStorage).
+`React` · `Flask` · `SQLAlchemy` · `JWT` · `Bcrypt`
 
 ---
 
