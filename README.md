@@ -13,9 +13,13 @@ including what doesn't work the first time.
 #### 🛠️ What I work with
 
 **Frontend** &nbsp;·&nbsp; React · Next.js · TypeScript · Tailwind CSS · HTML/CSS
+
 **Backend** &nbsp;·&nbsp; Python · Flask · REST APIs · JWT auth · SQLAlchemy
+
 **Data** &nbsp;·&nbsp; SQL
+
 **Tooling** &nbsp;·&nbsp; Git/GitHub · Claude Code
+
 **Working with AI** &nbsp;·&nbsp; Prompt & context engineering
 
 #### 📚 Currently learning
