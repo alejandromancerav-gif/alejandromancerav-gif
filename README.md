@@ -26,7 +26,7 @@ into the same stack I already build with.
 
 #### 🎓 Certifications
 
-Anthropic — AI Fluency Framework · AI Capabilities and Limitations · Claude Code 101
+Anthropic — AI Fluency Framework · AI Capabilities and Limitations · Claude 101 · Claude Code 101
 
 ---
 
